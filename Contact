@@ -6,7 +6,9 @@
     <title> My Portfolio | Javier Avila</title>
     
     <!-- Styles -->
-    <link rel="stylesheet" href="css/stle.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
 
   <body>
