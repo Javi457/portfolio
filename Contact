@@ -20,7 +20,11 @@
         </a>
         <nav>
         <ul>
-           <li>Home</li>
+           <li><a href="Index.html"class="selected">Home</a></li>
+           <li><a href="About.html">about</a></li>
+           <li><a href="Contact.html">contact</a></li>
+           
+          <li>Home</li>
            <li>About</li>
            <li>Contact</li>
         </ul>
